@@ -1,0 +1,8 @@
+1] git clone https://github.com/nobilvijayarjunan007/java.git
+
+2] git clone https://github.com/nobilvijayarjunan007/java.git newDirectory
+	
+	note: newDirectroy is provided for git repo will clone into newDirectory.
+
+3] git status	
+
