@@ -4,5 +4,16 @@
 	
 	note: newDirectroy is provided for git repo will clone into newDirectory.
 
-3] git status	
+3] git status
+	
+	note: git status is used to know about your git repository status
+	     1. to check the current branch of the repo
+	     2. to check any file added or modified or commited
+	     		
+4] git add <fileName>
+	
+	Example: git add vijay.txt
+	         git add . 
+
+	note: git add is used to add files to stagging area from modified area.
 
