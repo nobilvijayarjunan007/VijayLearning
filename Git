@@ -21,6 +21,14 @@
 	note: git restored --staged is used to unstage the files.	
 7] git commit 
 
+8] git remote -v
+	Example:
+		1.git remote -v  --> v mean view
+			origin  https://github.com/nobilvijayarjunan007/java.git (fetch)
+			origin  https://github.com/nobilvijayarjunan007/java.git (push)
+		2.git remote
+			origin		
+
 8] git push origin master
 
 
