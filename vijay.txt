@@ -1,0 +1,35 @@
+1] git clone https://github.com/nobilvijayarjunan007/java.git
+2] git clone https://github.com/nobilvijayarjunan007/java.git newDirectory
+	note: newDirectroy is provided for git repo will clone into newDirectory.
+3] git status
+	note: git status is used to know about your git repository status
+	     1. to check the current branch of the repo
+	     2. to check any file added or modified or commited   		
+4] git add <fileName>
+	Example: 
+		1. git add vijay.txt
+	        2. git add . 
+	note: git add is used to add files to stagging directory from working directory.
+5] git restore <fileName>	
+	Example:
+		1. git restore vijay.txt
+		2. git restore .
+	note: git restore is used  to discard changes in working directory	
+6] git restored --staged <fileName>
+  	Example:
+		1. git restore --statged vijay.txt
+	note: git restored --staged is used to unstage the files.	
+7] git commit 
+
+8] git remote -v
+	Example:
+		1.git remote -v  --> v mean view
+			origin  https://github.com/nobilvijayarjunan007/java.git (fetch)
+			origin  https://github.com/nobilvijayarjunan007/java.git (push)
+		2.git remote
+			origin		
+
+8] git push origin master
+
+
+
