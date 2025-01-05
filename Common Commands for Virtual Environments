@@ -1,0 +1,9 @@
+Common Commands for Virtual Environments
+Task	--> Command
+Create a virtual environment --> 	python3 -m venv myenv
+Activate on Linux/macOS --> 	source myenv/bin/activate
+Activate on Windows --> 	myenv\Scripts\activate
+Deactivate --> 	deactivate
+Install libraries -->	pip install <library_name>
+List installed libraries-->	pip list
+Delete the virtual environment -->	rm -rf myenv
